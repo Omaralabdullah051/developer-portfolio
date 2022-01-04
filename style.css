@@ -62,3 +62,6 @@ h2{
     border-image: linear-gradient(orange, red);
     border-image-slice: 1;
 }
+footer p{
+    text-align: center;
+}
